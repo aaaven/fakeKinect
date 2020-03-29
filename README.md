@@ -3,7 +3,7 @@ This is a ~~javascript~~ Processing library provides Microsoft Kinect alike func
 
 Example screenshots:
 
-![DepthImage_0_sampleCode]("DepthImage_0_sampleCode.png")
+![DepthImage_0_sampleCode](DepthImage_0_sampleCode.png)
 
 ![DepthImage_1_OOP]("DepthImage_1_OOP.png")
 
